@@ -1,0 +1,8 @@
+{
+  "name": "JurisPulse AI",
+  "description": "A comprehensive AI-powered legal platform that ensures no client is ignored. Features real-time voice intake, automated client communication, case analysis with 'winning ratio' predictions, and high-quality document generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
